@@ -17,5 +17,6 @@ London Bike Sharing Data: The primary dataset used for this analysis is the "lon
 - Interactive Dashboard with valuable insights.
       [Click here for Tableau visualizations and dashboard]( https://prod-apnortheast-a.online.tableau.com/#/site/jayabaker154/workbooks/1408300?:origin=card_share_link)
 - Preview dashboard below:
-    ![image](https://github.com/jayabaker154/Portfolio_Projects/assets/128214246/dd4e66d9-9da9-428f-b79e-197c18fb9905)
+    ![image](https://github.com/jayabaker154/Bike_Sharing_Analysis/assets/128214246/2e2be76d-7fe4-448b-ab7c-b069666e57dd)
+
 
